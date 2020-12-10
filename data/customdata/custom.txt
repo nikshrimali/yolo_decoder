@@ -1,0 +1,12 @@
+./data/YoloV3_Dataset/Images/img_010.jpg
+./data/YoloV3_Dataset/Images/img_021.jpg
+./data/YoloV3_Dataset/Images/img_031.jpg
+./data/YoloV3_Dataset/Images/img_041.jpg
+./data/YoloV3_Dataset/Images/img_053.jpg
+./data/YoloV3_Dataset/Images/img_063.jpg
+./data/YoloV3_Dataset/Images/img_073.jpg
+./data/YoloV3_Dataset/Images/img_083.jpg
+./data/YoloV3_Dataset/Images/img_095.jpg
+./data/YoloV3_Dataset/Images/img_105.jpg
+./data/YoloV3_Dataset/Images/img_116.jpg
+./data/YoloV3_Dataset/images/img002.jpg
